@@ -1,0 +1,16 @@
+.carrito
+{
+	border: 1px solid white;
+	color:white;
+	background-color:transparent;
+}
+.carrito:hover
+{
+	background-color: #92CC14;
+	color: white;
+}
+.encabezadoTabla 
+{
+	text-align:center;
+	
+}
